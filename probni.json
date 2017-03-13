@@ -1,0 +1,26 @@
+{
+     "firstName": "Thomas",
+     "lastName": "Anderson",
+     "age": 25,
+     "trustedSOurce": "agsmith.jpg",
+     "idImage": "neo.jpg",
+     "address":
+     {
+         "streetAddress": "21 2nd Street",
+         "city": "New York",
+         "state": "NY",
+         "postalCode": "10021"
+     },
+     "phoneNumber":
+     [
+         {
+           "type": "matrix",
+           "number": "212 555-1234"
+         },
+         {
+           "type": "mobile",
+           "number": "646 555-4567"
+         }
+     ]
+     
+ }
